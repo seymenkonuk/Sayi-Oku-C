@@ -5,7 +5,7 @@ En Fazla 171 Basamaklý Bir Sayýnýn Türkçe Okunuþunu Ekrana Yazdýrýr
 #ifndef SAYIOKU_H
 #define SAYIOKU_H
 #include <stdio.h>
-#include "lib/metin.h" // https://github.com/seymenkonuk/Metin-C
+#include "../lib/metin.h" // https://github.com/seymenkonuk/Metin-C
 
 void sayiOku(const char sayi[]); // En Fazla 171 Basamaklý Bir Sayýnýn Türkçe Okunuþunu Ekrana Yazdýrýr
 
